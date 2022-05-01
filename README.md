@@ -6,7 +6,7 @@ _Interface De(s+v), specializing in first principles & systems thinking_
 As of 2021, the majority of my time is building projects at [Ambition](https://ambition.wtf) with my friends. We’ve created a few projects I’m really proud of like:
 - 🪱 [The Worm](https://theworm.wtf) → a semi-autonomous agent living in the Ethereum VM featuring the first “share-to-mint” & “soul-bound” mechanics.
 - 🖕 [lil fks](https://lilfks.wtf) → fully on-chain characters featuring a dynamic genetic mutation system that you can endlessly mutate.
-- 🍆 [CryptoJunks]((https://cryptojunks.wtf) → the funniest CryptoPunks parody project, featuring over 1400 traits, created with a custom in-house pixel drawing & generator I built called JunkDrawer.
+- 🍆 [CryptoJunks](https://cryptojunks.wtf) → the funniest CryptoPunks parody project, featuring over 1400 traits, created with a custom in-house pixel drawing & generator I built called JunkDrawer.
 
 ### Side quests:
 
