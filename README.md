@@ -8,7 +8,7 @@ golOS (game of life operating system) → _An attempt at creating a game-like in
 
 ### Side quests:
 
-- [VisaViz](https://github.com/felixakiragreen/visaviz) → “a tool for (data)visualizing ALL of a person’s (@VisakanV) tweets”.
+- [VisaViz](https://github.com/felixakiragreen/visaviz) → a tool for (data)visualizing ALL of a person’s (@VisakanV) tweets.
 - 🪱 [The Worm](https://theworm.wtf) → a semi-autonomous agent living in the Ethereum VM featuring the first “share-to-mint” & “soul-bound” mechanics.
 - 🖕 [lil fks](https://lilfks.wtf) → fully on-chain characters featuring a dynamic genetic mutation system that you can endlessly mutate.
 - 🍆 [CryptoJunks](https://cryptojunks.wtf) → the funniest CryptoPunks parody project, featuring over 1400 traits, created with a custom in-house pixel drawing & generator I built called JunkDrawer.
