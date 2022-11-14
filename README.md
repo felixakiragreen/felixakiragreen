@@ -4,7 +4,7 @@ _Interface De(s+v), specializing in first principles & systems thinking_
 ### Main quest:
 
 golOS (game of life operating system) → _An attempt at creating a game-like interface for living life._
-> A project I’ve been working on for as long as I can remember, currently on the 4th major iteration of prototypes. The most grandiose & ambitious of all my projects, the one I want to spend a significant fraction of my life on, and be known for after I am gone.
+> A project I’ve been working on for as long as I can remember, currently on the 5th major iteration of prototypes. The most grandiose & ambitious of all my projects, the one I want to spend a significant fraction of my life on, and be known for after I am gone.
 
 ### Side quests:
 
