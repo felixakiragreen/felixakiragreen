@@ -3,7 +3,7 @@ _Technomancer (Interface Designer/Developer), specializing in first principles &
 
 ### Main quest:
 
-golOS (game of life operating system) → _An attempt at creating a game-like interface for living life._
+GOLOS (game of life operating system) → _An attempt at creating a game-like interface for living life._
 > A project I’ve been working on for as long as I can remember, currently on the 7th major iteration of prototypes. The most grandiose & ambitious of all my projects, the one I want to spend a significant fraction of my life on, and be known for after I am gone.
 
 ### Side quests:
