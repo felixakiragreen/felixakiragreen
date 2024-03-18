@@ -1,4 +1,2 @@
 ## Felix Green
-_Technomancer (Interface Designer/Developer), specializing in first principles & systems thinking_
-
-new update coming soon.
+_Design Engineer, I live for creating magical experiences by unifying high-tech back-ends with simple, elegant outputs._
